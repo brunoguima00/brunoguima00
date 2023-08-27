@@ -1,7 +1,7 @@
 ## Olá!! Eu sou o Bruno Guimarães ##
 
-- 🔭 I’m currently working on Power BI
-- 🌱 I’m currently learning Node JS, Javascript , Typescript and SOLID
+- 🔭 I’m currently working on Power BI and SQL Server Azure.
+- 🌱 I’m currently learning Node JS, Javascript , Typescript and SOLID.
 - ⚡ Fun fact: I love number, and I have an accountant degree 😁
 <hr>
   👨‍💻 About Me
